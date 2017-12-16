@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Goverment</string>
+    <string name="title_activity_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="linear_sectioned_recyclerview_vertical">Linear Sectioned RecyclerView (Vertical)</string>
+    <string name="linear_sectioned_recyclerview_horizontal">Linear Sectioned RecyclerView (Horizontal)</string>
+    <string name="grid_sectioned_recyclerview">Grid Sectioned RecyclerView</string>
+    <string name="show_all">Show All</string>
+    <string name="Paragraph">Aadhaar which means foundation is a 12digit uniqueidentity number issued to all Indian residents based on their biometric and demographic data.The data is collected by the Unique Identification Authority of India a statutory authority established in January 2009 by the Government of India, under the Ministry of Electronics and Information Technology, under the provisions of the Aadhaar (Targeted Delivery of Financial and other Subsidies, benefits and services) Act, 2016.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paragraph1">Prior to the enactment of the Act, UIDAI functioned as an attached office of Planning Commission (now NITI Aayog) since 28 January 2009. On 3 March 2016, a money bill was introduced in the Parliament to give legislative backing to Aadhaar.On 11 March 2016, the Aadhaar (Targeted Delivery of Financial and other Subsidies, benefits and services) Act, 2016 was passed in the Lok Sabha
+    A number of features make the Aadhaar card a digital identity, and facilitate digital identity.
+    </string>
+
+    <string name="paragraph2"> The document of the card itself is electronic in PDF format
+    1. A QR Code provides digital XML representation of some core details of the card.
+    2. The number and some limited details can be validated online
+    3. Updating details can be done electronically using a mobile phone number and/or email as the second factor of authentication,
+    4. The system collects a photo, all 10 finger scans, and eye scan, however there is no known common usage of this data to date to electronically validate a holder.
+</string>
+    <string name="para">Update   at    Enrolment Center </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parag">If a person moves his/ her residence to another assembly constituency then he does not remain a valid voter of previous constituency. The person has to register afresh as voter in the new assembly constituency. Hence the new card is issued and old card becomes invalid.</string>
+    <string name="paragrap4">The voter card is issued to all Indian citizens who have attained the age of 18 years and qualify to be a voter. One has to apply on prescribed Form-6 of Election Commission attached with proof of ID, Indian nationality, age and residence</string>
+    <string name="passport">An Indian passport is a passport issued by order of the President of India to Indian citizens for the purpose of international travel. It enables the bearer to travel internationally and serves as proof of Indian citizenship as per the Passports Act (1967). The Passport Seva (Passport Service) unit of the Consular, Passport  Visa (CPV) Division of the Ministry of External Affairs, functions as the central passport organisation, and is responsible for issuing Indian passports on demand to all eligible Indian citizens. Indian passports are issued at 93 passport offices located across India and at 162 Indian diplomatic missions abroad.</string>
+    <string name="passport20">An Indian passport is normally valid for 10 years from the date of issue. Expiration date is denoted by the term Final or F after the expiration date. e.g., 12.05.2009 (Final) or 12.05.2009 (F). You can not renew the passport more than one year before the expiration date of your current passport.</string>
+    <string name="pan2">There are two types of PAN applications:
+
+    Application for allotment of PAN: -This application form should be used when the applicant has never applied for a PAN or does not have PAN allotted to him. Applicant may visit ITD’s website www.incometaxindia.gov.in to find whether a PAN has been allotted to him or not.
+
+    Following forms have been notified by ITD (w. e. f. November 1, 2011) for submitting applications for allotment of new PAN:
+
+    FORM 49A: - To be filled by Indian citizens including those who are located outside India.
+
+    FORM 49AA: - To be filled by foreign citizens.
+
+    Application for new PAN Card or/and Changes or Corrections in PAN Data: - Those who have already obtained the PAN and wish to obtain the new PAN card or want to make some changes / corrections in their PAN data, are required to submit their applications in the following form prescribed by ITD:
+
+    REQUEST FOR NEW PAN CARD OR/AND CHANGES OR CORRECTION IN PAN DATA’: - The same form can be used by Indian as well as foreign citizens.
+
+    A new PAN card bearing the same PAN but updated information is issued to applicant in such case.
+</string>
+    <string name="pan1">NSDL e-Gov accepts PAN applications on behalf of Income Tax Department (since June 2004) through its chain of TIN-Facilitation Centres (TIN-FCs) and PAN centres set up across the country. Further, NSDL e-Gov also provides a facility to apply for PAN over internet through its online facility. </string>
+    <string name="Paragraph3">The Indian voter ID card is an identity document issued by the Election Commission of India which primarily serves as an identity proof for Indian citizens while casting votes in the country municipal, state, and national elections. It also serves as general identity, address, and age proof for other purposes such as buying a mobile phone SIM card or applying for a passport. It is also known as Electoral Photo ID Card</string>
+    <string name="dr">Applications for a provisional driving licence can be made from the age of 16. Valid for driving a moped or gearless motorcycle (with a capacity of up to 50 cc) from aged 16,[1] and a car from aged 18 or older to drive any other type of vehicle.[2] The common "All India Permit" allows the licensee to drive throughout the country.[3] For driving commercial/transport vehicles, one should obtain endorsement (and a minimum age of 20 years, in some states) in the driving licence to effect under s.3(1) of The Motor Vehicles Act, 1988. Until a driving test (which consists of three sections: verbal or written test (depending on the state), road sign test followed by a supervised driving examination)[4] has been passed a driver may hold only a provisional licence and be subject to certain conditions.</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="driving">In India, the driving licence is the official document which authorises its holder to operate various types of motor vehicle on highways and some other roads to which the public have access. In various Indian states, they are administered by the Regional Transport Authorities/Offices (RTA/RTO). A driving licence is required in India by any person driving a vehicle on any highway or other road defined in the Motor Vehicles Act, 1988.</string>
+</resources>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerstate">
+    <item>---Select State------</item>
+        <item>Punjab</item>
+    </string-array>
+</resources>
